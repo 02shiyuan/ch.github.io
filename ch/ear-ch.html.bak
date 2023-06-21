@@ -118,7 +118,7 @@ h1, h2, h3, h4, h5, h6 {
 </style>
 <style id='wp-webfonts-inline-css'>
 @font-face{font-family:"DM Sans";font-style:normal;font-weight:400;font-display:fallback;src:url('/wordpress/wp-content/themes/twentytwentythree/assets/fonts/dm-sans/DMSans-Regular.woff2') format('woff2');font-stretch:normal;}@font-face{font-family:"DM Sans";font-style:italic;font-weight:400;font-display:fallback;src:url('/wordpress/wp-content/themes/twentytwentythree/assets/fonts/dm-sans/DMSans-Regular-Italic.woff2') format('woff2');font-stretch:normal;}@font-face{font-family:"DM Sans";font-style:normal;font-weight:700;font-display:fallback;src:url('/wordpress/wp-content/themes/twentytwentythree/assets/fonts/dm-sans/DMSans-Bold.woff2') format('woff2');font-stretch:normal;}@font-face{font-family:"DM Sans";font-style:italic;font-weight:700;font-display:fallback;src:url('/wordpress/wp-content/themes/twentytwentythree/assets/fonts/dm-sans/DMSans-Bold-Italic.woff2') format('woff2');font-stretch:normal;}@font-face{font-family:"IBM Plex Mono";font-style:normal;font-weight:300;font-display:block;src:url('/wordpress/wp-content/themes/twentytwentythree/assets/fonts/ibm-plex-mono/IBMPlexMono-Light.woff2') format('woff2');font-stretch:normal;}@font-face{font-family:"IBM Plex Mono";font-style:normal;font-weight:400;font-display:block;src:url('/wordpress/wp-content/themes/twentytwentythree/assets/fonts/ibm-plex-mono/IBMPlexMono-Regular.woff2') format('woff2');font-stretch:normal;}@font-face{font-family:"IBM Plex Mono";font-style:italic;font-weight:400;font-display:block;src:url('/wordpress/wp-content/themes/twentytwentythree/assets/fonts/ibm-plex-mono/IBMPlexMono-Italic.woff2') format('woff2');font-stretch:normal;}@font-face{font-family:"IBM Plex Mono";font-style:normal;font-weight:700;font-display:block;src:url('/wordpress/wp-content/themes/twentytwentythree/assets/fonts/ibm-plex-mono/IBMPlexMono-Bold.woff2') format('woff2');font-stretch:normal;}@font-face{font-family:Inter;font-style:normal;font-weight:200 900;font-display:fallback;src:url('/wordpress/wp-content/themes/twentytwentythree/assets/fonts/inter/Inter-VariableFont_slnt,wght.ttf') format('truetype');font-stretch:normal;}@font-face{font-family:"Source Serif Pro";font-style:normal;font-weight:200 900;font-display:fallback;src:url('/wordpress/wp-content/themes/twentytwentythree/assets/fonts/source-serif-pro/SourceSerif4Variable-Roman.ttf.woff2') format('woff2');font-stretch:normal;}@font-face{font-family:"Source Serif Pro";font-style:italic;font-weight:200 900;font-display:fallback;src:url('/wordpress/wp-content/themes/twentytwentythree/assets/fonts/source-serif-pro/SourceSerif4Variable-Italic.ttf.woff2') format('woff2');font-stretch:normal;}
-<!-- </style> -->
+</style>
 <!-- <link rel="https://api.w.org/" href="http://localhost/wordpress/wp-json/" /><link rel="alternate" type="application/json" href="http://localhost/wordpress/wp-json/wp/v2/pages/157" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://localhost/wordpress/xmlrpc.php?rsd" /> -->
 <!-- <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://localhost/wordpress/wp-includes/wlwmanifest.xml" /> -->
 <!-- <meta name="generator" content="WordPress 6.2.2" /> -->
@@ -148,7 +148,7 @@ h1, h2, h3, h4, h5, h6 {
 <figure class="wp-block-image size-full is-resized"><img decoding="async" src="images\National-Palace-Museum-Open-Data-Logo.webp" alt="" class="wp-image-54" width="54" height="54"/></figure>
 
 
-<p class="wp-block-site-title"><a href="http://localhost/wordpress" target="_self" rel="home">故宮展件</a></p></div>
+<p class="wp-block-site-title"><a href="https://02shiyuan.github.io/front.github.io/front/front.html" target="_self" rel="home">故宮展件</a></p></div>
 </div>
 </header>
 
@@ -158,7 +158,7 @@ h1, h2, h3, h4, h5, h6 {
 
 
 <div class="entry-content wp-block-post-content has-global-padding is-layout-constrained">
-<h2 class="wp-block-heading has-text-align-center"><strong>集瓊藻</strong></h2>
+<h2 class="wp-block-heading has-text-align-center"><strong>青花山茶花紋如意耳扁壺</strong></h2>
 
 
 
@@ -170,16 +170,16 @@ h1, h2, h3, h4, h5, h6 {
 
 
 
-<div class="wp-block-media-text body { background-color: #FFDA96; }"><figure class="wp-block-media-text__media"><img decoding="async" width="619" height="431" src="images\集1.jpg" alt="" class="wp-image-45 size-full"/></figure><div class="wp-block-media-text__content">
-<p>分類: 漆器</p>
+<div class="wp-block-media-text body { background-color: #FFDA96; }"><figure class="wp-block-media-text__media"><img decoding="async" width="619" height="431" src="images\山茶1.jpg" alt="" class="wp-image-45 size-full"/></figure><div class="wp-block-media-text__content">
+<p>分類: 陶瓷器</p>
 
 
 
-<p>尺寸: 長26.5公分 寬20.7公分 高19.5公分</p>
+<p>尺寸: 高25.0公分 口徑2.7公分 底徑長10.2公分 寬7.6公分</p>
 
 
 
-<p>時代: 清 乾隆 西元1736-1795年</p>
+<p>時代: 明 永樂 西元1403-1424年</p>
 </div></div>
 
 
@@ -192,11 +192,11 @@ h1, h2, h3, h4, h5, h6 {
 
 
 
-<p>「集瓊藻」多寶格是一個非常獨特且展現時代風貌的藝術品。它以多層的方式來保護和展示內部的珍貴文物。首先，所有的文物都被分別放置在兩個木匣中，然後再放入一個雙層的日本蒔繪漆盒中。最後，整個蒔繪漆盒還需要放入一個方形的木箱中，才算完成了組裝的過程。
+<p>如意耳瓷器扁壺是在明代永樂時期創作的，其器形受到伊斯蘭陶器和玻璃器的影響。此後，在宣德時期繼續燒造，目前所見的有白釉和青花兩種風格。青花扁壺以花卉、花鳥、花果和人物等圖案作為裝飾。該扁壺的口部較小，頸部細長，腹部呈扁圓形，底部平坦且無足，兩側的耳朵連接頸部和肩部，器腹中央有一道明顯的接痕。
 
-整個「集瓊藻」多寶格最引人注目的設計莫過於外部的裝飾。木箱上鑲嵌著獸骨和螺鈿，這些獸骨形成纏枝花卉的圖案，細緻而巧妙地分佈在木箱的每一個面上。盒蓋的中心則使用螺鈿細嵌技法，呈現出「集瓊藻乾隆辛酉年裝」的字樣，清晰地標示了多寶格的名稱和組裝時間。而裝箱清冊《集瓊藻》小冊則詳細記錄了多寶格內收納的文物和數量，以及它們在盒中的位置。透過這些記錄，我們得以重現多寶格剛組裝完成時的樣貌。
+整個扁壺以青花為主要裝飾，頸部繪有轉枝花卉的紋飾，肩部則繪有環繞著蕉葉紋的圖案，蕉葉的兩旁呈現輕微的暈染效果。腹部的兩面分別描繪了盛開的山茶花。青花紋飾繪製精細，呈現出獨特的視覺效果。
 
-「集瓊藻」多寶格以其精湛的工藝和組裝方式展現了獨特的美感，為我們帶來了回溯歷史的機會。</p>
+如意耳瓷器扁壺結合了細緻的器形設計和精美的青花裝飾，展現出明代時期瓷器的藝術風貌。</p>
 
 
 
@@ -208,7 +208,7 @@ h1, h2, h3, h4, h5, h6 {
 
 
 
-<figure class="wp-block-audio"><audio controls src="mp3\集.mp3"></audio></figure>
+<figure class="wp-block-audio"><audio controls src="mp3\耳.mp3"></audio></figure>
 
 
 
@@ -220,7 +220,7 @@ h1, h2, h3, h4, h5, h6 {
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="1500" height="883" src="trace\11.png" alt="" class="wp-image-344"/></figure>
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="1500" height="883" src="trace\10.png" alt="" class="wp-image-344"/></figure>
 <blockquote class="wp-block-quote">
 <p></p>
 <cite><em>參考來源:</em><a href="https://digitalarchive.npm.gov.tw/List/Index">故宮典藏資料檢索</a></cite></blockquote>
@@ -231,7 +231,7 @@ h1, h2, h3, h4, h5, h6 {
 <div class="wp-block-group has-global-padding is-layout-constrained">
 	
 	<div class="wp-block-group alignwide is-content-justification-space-between is-layout-flex wp-container-6" style="padding-top:var(--wp--preset--spacing--40)">
-		<p class="wp-block-site-title"><a href="http://localhost/wordpress" target="_self" rel="home">故宮展件</a></p>
+		<p class="wp-block-site-title"><a href="https://02shiyuan.github.io/front.github.io/front/front.html" target="_self" rel="home">故宮展件</a></p>
 		
 		
 	</div>

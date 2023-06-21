@@ -118,7 +118,7 @@ h1, h2, h3, h4, h5, h6 {
 </style>
 <style id='wp-webfonts-inline-css'>
 @font-face{font-family:"DM Sans";font-style:normal;font-weight:400;font-display:fallback;src:url('/wordpress/wp-content/themes/twentytwentythree/assets/fonts/dm-sans/DMSans-Regular.woff2') format('woff2');font-stretch:normal;}@font-face{font-family:"DM Sans";font-style:italic;font-weight:400;font-display:fallback;src:url('/wordpress/wp-content/themes/twentytwentythree/assets/fonts/dm-sans/DMSans-Regular-Italic.woff2') format('woff2');font-stretch:normal;}@font-face{font-family:"DM Sans";font-style:normal;font-weight:700;font-display:fallback;src:url('/wordpress/wp-content/themes/twentytwentythree/assets/fonts/dm-sans/DMSans-Bold.woff2') format('woff2');font-stretch:normal;}@font-face{font-family:"DM Sans";font-style:italic;font-weight:700;font-display:fallback;src:url('/wordpress/wp-content/themes/twentytwentythree/assets/fonts/dm-sans/DMSans-Bold-Italic.woff2') format('woff2');font-stretch:normal;}@font-face{font-family:"IBM Plex Mono";font-style:normal;font-weight:300;font-display:block;src:url('/wordpress/wp-content/themes/twentytwentythree/assets/fonts/ibm-plex-mono/IBMPlexMono-Light.woff2') format('woff2');font-stretch:normal;}@font-face{font-family:"IBM Plex Mono";font-style:normal;font-weight:400;font-display:block;src:url('/wordpress/wp-content/themes/twentytwentythree/assets/fonts/ibm-plex-mono/IBMPlexMono-Regular.woff2') format('woff2');font-stretch:normal;}@font-face{font-family:"IBM Plex Mono";font-style:italic;font-weight:400;font-display:block;src:url('/wordpress/wp-content/themes/twentytwentythree/assets/fonts/ibm-plex-mono/IBMPlexMono-Italic.woff2') format('woff2');font-stretch:normal;}@font-face{font-family:"IBM Plex Mono";font-style:normal;font-weight:700;font-display:block;src:url('/wordpress/wp-content/themes/twentytwentythree/assets/fonts/ibm-plex-mono/IBMPlexMono-Bold.woff2') format('woff2');font-stretch:normal;}@font-face{font-family:Inter;font-style:normal;font-weight:200 900;font-display:fallback;src:url('/wordpress/wp-content/themes/twentytwentythree/assets/fonts/inter/Inter-VariableFont_slnt,wght.ttf') format('truetype');font-stretch:normal;}@font-face{font-family:"Source Serif Pro";font-style:normal;font-weight:200 900;font-display:fallback;src:url('/wordpress/wp-content/themes/twentytwentythree/assets/fonts/source-serif-pro/SourceSerif4Variable-Roman.ttf.woff2') format('woff2');font-stretch:normal;}@font-face{font-family:"Source Serif Pro";font-style:italic;font-weight:200 900;font-display:fallback;src:url('/wordpress/wp-content/themes/twentytwentythree/assets/fonts/source-serif-pro/SourceSerif4Variable-Italic.ttf.woff2') format('woff2');font-stretch:normal;}
-<!-- </style> -->
+</style>
 <!-- <link rel="https://api.w.org/" href="http://localhost/wordpress/wp-json/" /><link rel="alternate" type="application/json" href="http://localhost/wordpress/wp-json/wp/v2/pages/157" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://localhost/wordpress/xmlrpc.php?rsd" /> -->
 <!-- <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://localhost/wordpress/wp-includes/wlwmanifest.xml" /> -->
 <!-- <meta name="generator" content="WordPress 6.2.2" /> -->
@@ -148,7 +148,7 @@ h1, h2, h3, h4, h5, h6 {
 <figure class="wp-block-image size-full is-resized"><img decoding="async" src="images\National-Palace-Museum-Open-Data-Logo.webp" alt="" class="wp-image-54" width="54" height="54"/></figure>
 
 
-<p class="wp-block-site-title"><a href="http://localhost/wordpress" target="_self" rel="home">故宮展件</a></p></div>
+<p class="wp-block-site-title"><a href="https://02shiyuan.github.io/front.github.io/front/front.html" target="_self" rel="home">故宮展件</a></p></div>
 </div>
 </header>
 
@@ -192,8 +192,7 @@ h1, h2, h3, h4, h5, h6 {
 
 
 
-<p>這件做嬰孩伏臥榻上的白瓷枕展現了定窯瓷器在塑形及裝飾上的高超技術。定窯燒製的作品以白瓷為主，成型工藝精良，釉質細潤光滑，釉色白中帶微黃，裝飾技法有淺劃、深刻、印花等。本件嬰兒枕的釉色牙白溫潤，頭部與身體分別由左右合模相接後，並將身、首接合，再剔刻面容。同時，充分發揮定窯不同的裝飾技巧，長衣下擺的朵花、背心上的球形紋以及榻座上雲螭紋是以模印技法呈現，後背則刻以纏枝牡丹，印花紋樣清晰，刻花線條流暢，二者搭配自如得宜。另外，底部刻有御製詩一首，可以發現乾隆皇帝將此類比為警枕，不僅警惕自勵自己宵旰勤勞，配合其他詠定窯孩兒枕御製詩來看，顯示出期盼如武丁於夢中尋到輔國賢臣的意圖。類似造型的嬰兒目前可見有三，其中二件收藏於本院，另一件見於北京故宮博物院。</p>
-
+<p>這件白瓷嬰兒枕以嬰孩伏臥榻上的形象展現了定窯瓷器在造型和裝飾方面的卓越技術。定窯燒製的作品主要以白瓷為主，成型工藝精細，釉質細膩光滑，釉色呈微黃色調，並運用淺劃、深刻、印花等裝飾技法。這件嬰兒枕的釉色純淨而溫潤，頭部和身體由左右合模相接後再與身體連接，並精心雕刻出面容的細節。同時，它充分展示了定窯獨特的裝飾技巧，如衣裳下擺的花朵、背心上的球形紋飾和榻座上的雲螭紋，這些都是通過模印技法呈現的。背部則雕刻了纏枝牡丹的紋飾，印花紋樣清晰，雕刻線條流暢，兩者的結合恰到好處。此外，底部刻有一首御製詩，顯示乾隆皇帝將此類枕頭比喻為警醒之物，以激勵自己日夜努力。結合其他定窯嬰兒枕的詩詞，可以看出皇帝期望能夢中尋找到輔佐國家的賢臣，顯示了一種期盼和希望的意圖。目前我們可以看到類似造型的嬰兒枕共有三件，其中兩件收藏於本院，另一件則展示於北京故宮博物院。</p>
 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
@@ -227,7 +226,7 @@ h1, h2, h3, h4, h5, h6 {
 <div class="wp-block-group has-global-padding is-layout-constrained">
 	
 	<div class="wp-block-group alignwide is-content-justification-space-between is-layout-flex wp-container-6" style="padding-top:var(--wp--preset--spacing--40)">
-		<p class="wp-block-site-title"><a href="http://localhost/wordpress" target="_self" rel="home">故宮展件</a></p>
+		<p class="wp-block-site-title"><a href="https://02shiyuan.github.io/front.github.io/front/front.html" target="_self" rel="home">故宮展件</a></p>
 		
 		
 	</div>

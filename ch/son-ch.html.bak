@@ -145,7 +145,7 @@ h1, h2, h3, h4, h5, h6 {
 <div class="wp-site-blocks"><header class="wp-block-template-part">
 <div class="wp-block-group has-global-padding is-layout-constrained">
 <div class="wp-block-group alignwide is-content-justification-left is-layout-flex wp-container-1" style="padding-bottom:var(--wp--preset--spacing--40)">
-<figure class="wp-block-image size-full is-resized"><img decoding="async" src="images\National-Palace-Museum-Open-Data-Logo.webp" alt="" class="wp-image-54" width="64" height="64"/></figure>
+<figure class="wp-block-image size-full is-resized"><img decoding="async" src="images\National-Palace-Museum-Open-Data-Logo.webp" alt="" class="wp-image-54" width="54" height="54"/></figure>
 
 
 <p class="wp-block-site-title"><a href="https://02shiyuan.github.io/front.github.io/front/front.html" target="_self" rel="home">故宮展件</a></p></div>
@@ -158,7 +158,7 @@ h1, h2, h3, h4, h5, h6 {
 
 
 <div class="entry-content wp-block-post-content has-global-padding is-layout-constrained">
-<h2 class="wp-block-heading has-text-align-center"><strong>集瓊藻</strong></h2>
+<h2 class="wp-block-heading has-text-align-center"><strong>乃孫作祖己鼎</strong></h2>
 
 
 
@@ -170,16 +170,16 @@ h1, h2, h3, h4, h5, h6 {
 
 
 
-<div class="wp-block-media-text body { background-color: #FFDA96; }"><figure class="wp-block-media-text__media"><img decoding="async" width="619" height="431" src="images\集1.jpg" alt="" class="wp-image-45 size-full"/></figure><div class="wp-block-media-text__content">
-<p>分類: 漆器</p>
+<div class="wp-block-media-text body { background-color: #FFDA96; }"><figure class="wp-block-media-text__media"><img decoding="async" width="619" height="431" src="images\乃1.jpg" alt="" class="wp-image-45 size-full"/></figure><div class="wp-block-media-text__content">
+<p>分類: 銅器</p>
 
 
 
-<p>尺寸: 長26.5公分 寬20.7公分 高19.5公分</p>
+<p>尺寸: 高81.8公分</p>
 
 
 
-<p>時代: 清 乾隆 西元1736-1795年</p>
+<p>時代: 西周早期，西元前11世紀中葉-前10世紀中葉</p>
 </div></div>
 
 
@@ -192,11 +192,8 @@ h1, h2, h3, h4, h5, h6 {
 
 
 
-<p>「集瓊藻」多寶格是一個非常獨特且展現時代風貌的藝術品。它以多層的方式來保護和展示內部的珍貴文物。首先，所有的文物都被分別放置在兩個木匣中，然後再放入一個雙層的日本蒔繪漆盒中。最後，整個蒔繪漆盒還需要放入一個方形的木箱中，才算完成了組裝的過程。
+<p>這件器物是一個深腹、折沿、立耳、柱足的鼎。它的器腹微微下垂，展現了西周早期的風格。頸部裝飾有六組高浮雕，刻有雙身動物面紋，獸面中央有一道扉稜，背景飾以雲雷紋。柱足上也有高浮雕的扉稜獸面紋和三道弦紋。這件器物的壁厚，紋飾精緻。在器腹底部有一處補鑄的痕跡。器內壁刻有11個字的銘文："乃孫乍祖己宗寶黹量匸（報）賓"。這段銘文使用了商代商人的辭令，書寫風格豪邁而厚重。此器原本是清宮的收藏，最初存放在重華宮的廚房中。</p>
 
-整個「集瓊藻」多寶格最引人注目的設計莫過於外部的裝飾。木箱上鑲嵌著獸骨和螺鈿，這些獸骨形成纏枝花卉的圖案，細緻而巧妙地分佈在木箱的每一個面上。盒蓋的中心則使用螺鈿細嵌技法，呈現出「集瓊藻乾隆辛酉年裝」的字樣，清晰地標示了多寶格的名稱和組裝時間。而裝箱清冊《集瓊藻》小冊則詳細記錄了多寶格內收納的文物和數量，以及它們在盒中的位置。透過這些記錄，我們得以重現多寶格剛組裝完成時的樣貌。
-
-「集瓊藻」多寶格以其精湛的工藝和組裝方式展現了獨特的美感，為我們帶來了回溯歷史的機會。</p>
 
 
 
@@ -208,7 +205,7 @@ h1, h2, h3, h4, h5, h6 {
 
 
 
-<figure class="wp-block-audio"><audio controls src="mp3\集.mp3"></audio></figure>
+<figure class="wp-block-audio"><audio controls src="mp3\乃孫.mp3"></audio></figure>
 
 
 
@@ -220,7 +217,7 @@ h1, h2, h3, h4, h5, h6 {
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="1500" height="883" src="trace\11.png" alt="" class="wp-image-344"/></figure>
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="1500" height="883" src="trace\4.png" alt="" class="wp-image-344"/></figure>
 <blockquote class="wp-block-quote">
 <p></p>
 <cite><em>參考來源:</em><a href="https://digitalarchive.npm.gov.tw/List/Index">故宮典藏資料檢索</a></cite></blockquote>
